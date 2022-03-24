@@ -44,3 +44,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+backend/FaceAppFlaskServer/__pycache__
+backend/FaceAppFlaskServer/faceapp
+backend/FaceAppFlaskServer/test.h5
